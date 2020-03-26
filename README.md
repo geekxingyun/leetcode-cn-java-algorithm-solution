@@ -1,2 +1,3 @@
-# lettcode-java-solution
-write some solution for leetcode
+# leetcode-java-algorithm-solution
+
+write some java algorithm solution for leetcode
