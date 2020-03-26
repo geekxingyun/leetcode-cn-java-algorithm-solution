@@ -1,2 +1,2 @@
-# lettcode-solution
+# lettcode-java-solution
 write some solution for leetcode
