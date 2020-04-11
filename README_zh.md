@@ -5,13 +5,14 @@
 这个项目将会帮助你更好地学习Leetcode 算法。
  
 
-## 1.1 入门指南
+# 1. 入门指南
 
 你想知道怎么使用它么？
 
 好，现在让我们开始。
 
----
+
+## 1.1 如何下载该项目
 
 - 首先我们需要把它fork或者clone 下载到你的电脑里。
 
@@ -27,7 +28,7 @@ git clone https://github.com/geekxingyun/leetcode-java-algorithm-solution.git
 
 如果你不知道哪道题如何写，就打开complete 模块找答案就是了。
 
-## 1.2 如何编译这个项目
+## 1.2 如何使用这个项目
 
 ### 1.2.1 使用Maven
 
