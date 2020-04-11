@@ -10,9 +10,6 @@ do you want to know how to use it?
 
 okay,now let's begin!
 
-<p>
-<img src="https://img-blog.csdnimg.cn/20200411204401828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hhZHVlcw==,size_16,color_FFFFFF,t_70">
-</p>
 
 ## 1.1 how to download the project?
 
