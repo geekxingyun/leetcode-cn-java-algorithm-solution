@@ -46,8 +46,6 @@ I am fairy,who is a java software engineer.
 
 If you think the project is useful for you, please help me mark it with a star so that more people will know about it.
 
-if you have any question,please send email to me. 
+if you have any question,please send an email to me.  fairy_xingyun@hotmail.com
 
-fairy_xingyun@hotmail.com
-
-thanks a lot.
+tha't all, thanks a lot.
