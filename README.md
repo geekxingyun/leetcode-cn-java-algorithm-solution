@@ -4,13 +4,13 @@ I tried to find the best way to learn the leetcode algorithm, so I created it.
  
 The project will help you better to learn the Leetcode algorithm。
 
-## 1.1 Getting Started
+# 1. Getting Started
 
 do you want to know how to use it?
 
 okay,now let's begin!
 
----
+## 1.1 how to download the project?
 
 - first of all, we should fork or clone the project on your pc.
 
@@ -26,7 +26,7 @@ git clone https://github.com/geekxingyun/leetcode-java-algorithm-solution.git
 
 if you don't know how to write the question answer,just check complate module project to find an answer.
 
-## 1.2 Building the Application
+## 1.2 how to use the project?
 
 ### 1.2.1 Using Maven
 
