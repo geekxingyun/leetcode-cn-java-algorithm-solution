@@ -30,17 +30,15 @@ if you don't know how to write the question answer,just check complate module pr
 
 ### 1.2.1 Using Maven
 
-if you are working with Maven,
-
-open pom.xml  with your intellij idea or eclipse.
+if you are working with Maven, open pom.xml  with your intellij idea or eclipse.
 
 then just write your code in initial module project.
 
 ### 1.2.2 Using Gradle
 
-if you are working with Gradle,
+if you are working with Gradle, open build.gradle with your intellij idea or eclipse.
 
-open build.gradle with your intellij idea or eclipse.
+then just write your code in initial module project.
 
 ## 1.5 Contributing
 
@@ -48,5 +46,8 @@ I am fairy,who is a java software engineer.
 
 If you think the project is useful for you, please help me mark it with a star so that more people will know about it.
 
-thanks a lot.
+if you have any question,please send email to me. 
 
+fairy_xingyun@hotmail.com
+
+thanks a lot.
