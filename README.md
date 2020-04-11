@@ -20,9 +20,9 @@ git clone https://github.com/geekxingyun/leetcode-java-algorithm-solution.git
 
 - then you will find the current project have two modules.
 
-complete: it is finished project and has some the answer about leetcode.
+> - complete: it is finished project and has some the answer about leetcode.
 
-initial: just write your code in the module project
+> - initial: just write your code in the module project
 
 if you don't know how to write the question answer,just check complate module project to find an answer.
 
