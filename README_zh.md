@@ -31,10 +31,14 @@ git clone https://github.com/geekxingyun/leetcode-java-algorithm-solution.git
 
 ### 1.2.1 使用Maven
 
-如果你使用的是Maven 就输入如下命令清理初始化项目
-```
-mvn clean compile
-```
+如果你使用的是Maven 就用Intellij idea 或Eclise 打开项目根目录的pom.xml
+
+然后在initial 模块写代码就行了
+
+### 1.2.2 使用Gradle
+
+如果你使用的是Maven 就用Intellij idea 或Eclise 打开项目根目录的pom.xml
+
 然后在initial 模块写代码就行了
 
 ## 1.5 贡献
@@ -43,4 +47,6 @@ mvn clean compile
 
 如果你认为这个项目对你有用，请标记个star以便于更多的人能知道这个项目。
 
-谢谢～
+如果有任何问题请发送邮件给我，fairy_xingyun@hotmail.com
+
+说完了,谢谢～
