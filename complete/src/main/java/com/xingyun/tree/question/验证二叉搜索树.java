@@ -10,11 +10,9 @@ import lombok.extern.slf4j.Slf4j;
 public class 验证二叉搜索树 {
     public static void main(String[] args) {
 
-        验证二叉搜索树 验证二叉搜索树=new 验证二叉搜索树();
+       TreeNode treeNode= initTreeNodeData();
 
-       TreeNode treeNode= 验证二叉搜索树.initTreeNodeData();
-
-       Boolean result=验证二叉搜索树.isValidBST(treeNode);
+       Boolean result= isValidBST(treeNode);
 
        log.info("{}",result);
 
@@ -27,12 +25,12 @@ public class 验证二叉搜索树 {
      * @param root
      * @return
      */
-    public boolean isValidBST(TreeNode root) {
+    public static boolean isValidBST(TreeNode root) {
         helper(root,null,null);
         return true;
     }
 
-    public boolean helper(TreeNode node, Integer lower, Integer upper) {
+    public static boolean helper(TreeNode node, Integer lower, Integer upper) {
         //如果根结点为空
         if (node == null){
             return true;
@@ -69,7 +67,7 @@ public class 验证二叉搜索树 {
      *
      * @return
      */
-    private TreeNode initTreeNodeData() {
+    private static TreeNode initTreeNodeData() {
         //根结点-左孩子-右孩子遍历顺序
         //根结点是3
         TreeNode treeNode = new TreeNode(2);

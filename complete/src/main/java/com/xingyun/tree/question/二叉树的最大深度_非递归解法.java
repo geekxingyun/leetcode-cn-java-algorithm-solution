@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.LinkedList;
 
 /**
- * 获取树的深度
+ * 二叉树的最大深度 非递归解法
  * @author qing-feng.zhao
  */
 @Slf4j
@@ -31,12 +31,12 @@ public class 二叉树的最大深度_非递归解法 {
      */
     public static void main(String[] args) {
         //由于都是实例方法需要创建一个实例对象
-        二叉树的最大深度_非递归解法 二叉树的最大深度非递归解法 =new 二叉树的最大深度_非递归解法();
+
         //获取初始化好的二叉树
-        TreeNode treeNode= 二叉树的最大深度非递归解法.initTreeNodeData();
+        TreeNode treeNode= initTreeNodeData();
 
         //我们需要编写的核心算法
-        int depth= 二叉树的最大深度非递归解法.maxDepth(treeNode);
+        int depth=  maxDepth(treeNode);
 
         //打印结果
         log.info("返回它的最大深度 {}",depth);
@@ -52,7 +52,7 @@ public class 二叉树的最大深度_非递归解法 {
      *     TreeNode(int x) { val = x; }
      * }
      */
-    public int maxDepth(TreeNode root) {
+    public static int maxDepth(TreeNode root) {
         if (root == null) {
             return 0;
         }
@@ -87,7 +87,7 @@ public class 二叉树的最大深度_非递归解法 {
      *    15   7
      * @return
      */
-    private TreeNode initTreeNodeData(){
+    private static TreeNode initTreeNodeData(){
         //根结点-左孩子-右孩子遍历顺序
         //根结点是3
         TreeNode treeNode=new TreeNode(3);

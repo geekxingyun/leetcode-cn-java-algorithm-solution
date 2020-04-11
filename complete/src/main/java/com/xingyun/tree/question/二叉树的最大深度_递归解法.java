@@ -4,6 +4,7 @@ import com.xingyun.tree.common.TreeNode;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * 二叉树的最大深度
  * @author qing-feng.zhao
  */
 @Slf4j
@@ -22,13 +23,11 @@ public class 二叉树的最大深度_递归解法 {
      */
     public static void main(String[] args) {
 
-        二叉树的最大深度_递归解法 二叉树的最大深度递归解法 =new 二叉树的最大深度_递归解法();
-
         //初始化二叉树
-        TreeNode treeNode= 二叉树的最大深度递归解法.initTreeNodeData();
+        TreeNode treeNode= initTreeNodeData();
 
         //递归解法求树的深度
-        int depth=二叉树的最大深度递归解法.maxDepth(treeNode);
+        int depth= maxDepth(treeNode);
 
         log.info("size={}",depth);
     }
@@ -43,7 +42,7 @@ public class 二叉树的最大深度_递归解法 {
      *     TreeNode(int x) { val = x; }
      * }
      */
-    public int maxDepth(TreeNode root) {
+    public static int maxDepth(TreeNode root) {
         //如果根结点为空
         if (null == root) {
             //即二叉树的最大深度为0
@@ -63,7 +62,7 @@ public class 二叉树的最大深度_递归解法 {
         }
     }
 
-    private TreeNode initTreeNodeData(){
+    private static TreeNode initTreeNodeData(){
         //根结点-左孩子-右孩子遍历顺序
         //根结点是3
         TreeNode treeNode=new TreeNode(3);
