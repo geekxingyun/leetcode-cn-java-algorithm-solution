@@ -1,5 +1,9 @@
 package xingyun.tree.question;
 
+import xingyun.tree.common.TreeNode;
+
+import java.util.List;
+
 /**
  * @author qing-feng.zhao
  */
@@ -25,5 +29,17 @@ public class 二叉树的层序遍历 {
      */
     public static void main(String[] args) {
 
+    }
+    /**
+     * Definition for a binary tree node.
+     * public class TreeNode {
+     *     int val;
+     *     TreeNode left;
+     *     TreeNode right;
+     *     TreeNode(int x) { val = x; }
+     * }
+     */
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        return null;
     }
 }
