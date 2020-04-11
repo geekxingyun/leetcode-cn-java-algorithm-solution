@@ -1,63 +1,48 @@
 # leetcode-java-algorithm-solution
 
-Tell others what is the current open source project?
+I tried to find the best way to learn the algorithm better, so I created it.
+ 
+This is a project dedicated to learning and practicing the leetcode algorithm.
 
-```
-this is an example about how to open source a project.
-```
 ## 1.1 Getting Started
 
-provide an example about how to use your open source project.
+do you want to know how to use it?
+
+okay,now let's begin!
+
+---
+
+- first of all, we should fork or clone the project on your pc.
 
 ```
-
-First of all,we need create these files as below:
-
-- .gitignore
-
-Open source project root directory configuration ignore file
-
-- .mailmap
-
-provide author email so that others can contact you about this project
-
-- .gitattributes
-
-Ensure line endings for binary files are not modified in Git
-
-- CONTRIBUTING.md
-
-how to check out, build, and import the open source code into your IDE.
-
-- LICENSE
-
-we had better have a software licence for the current open source project.
-
-such as ,current open source project is using Apache Licence 2.0.
-
-if you want to know more about software licence or choose other software licence ,please check the article [how to choose free software licenses](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
-
-- README.md
-
-introduce your open source project in English.
-
-- README_zh.md
-
-introduce your open source project in Chinese.
-
+git clone https://github.com/geekxingyun/leetcode-java-algorithm-solution.git
 ```
+
+- then you will find the current project have two modules.
+
+complete: it is finished project and has some the answer about leetcode.
+
+initial: just write your code in the module project
+
+if you don't know how to write the question answer,just check complate module project to find an answer.
+
 ## 1.2 Building the Application
 
-provide some information about how to build the open source project.
+### 1.2.1 Using Maven
 
-## 1.3 Deploying the Application
+if you are working with Maven,please type these command as below:
 
-provide some information about how to deploy the app.
+```
+mvn clean compile
+```
 
-## 1.4 Running the Application
-
-provide some information about how to run the app.
+then just write your code in initial module project.
 
 ## 1.5 Contributing
 
-provide some information about who is developing the app.
+I am fairy,who is a java software engineer.
+
+If you think the project is useful for you, please help me mark it with a star so that more people will know about it.
+
+thanks a lot.
+
