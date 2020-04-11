@@ -2,7 +2,7 @@
 
 I tried to find the best way to learn the leetcode algorithm, so I created it.
  
-This project will help you better to learn the Leetcode algorithm。
+The project will help you better to learn the Leetcode algorithm。
 
 ## 1.1 Getting Started
 
