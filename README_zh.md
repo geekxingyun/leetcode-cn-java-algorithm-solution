@@ -38,7 +38,7 @@ git clone https://github.com/geekxingyun/leetcode-java-algorithm-solution.git
 
 ### 1.2.2 使用Gradle
 
-如果你使用的是Maven 就用Intellij idea 或Eclise 打开项目根目录的pom.xml
+如果你使用的是Maven 就用Intellij idea 或Eclise 打开项目根目录的build.gradle
 
 然后在initial 模块写代码就行了
 
