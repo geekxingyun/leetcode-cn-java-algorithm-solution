@@ -40,7 +40,7 @@ if you are working with Gradle, open build.gradle with your intellij idea or ecl
 
 then just write your code in initial module project.
 
-## 1.5 Contributing
+## 1.3 Contributing
 
 I am fairy,who is a java software engineer.
 
