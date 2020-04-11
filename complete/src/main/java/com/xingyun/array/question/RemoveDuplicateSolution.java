@@ -1,4 +1,4 @@
-package com.xingyun.array;
+package com.xingyun.array.question;
 
 import lombok.extern.slf4j.Slf4j;
 
