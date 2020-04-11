@@ -1,8 +1,8 @@
 # leetcode-java-algorithm-solution
 
-I tried to find the best way to learn the algorithm better, so I created it.
+I tried to find the best way to learn the leetcode algorithm, so I created it.
  
-This is a project dedicated to learning and practicing the leetcode algorithm.
+This project will help you better learn the Leetcode algorithm。
 
 ## 1.1 Getting Started
 
