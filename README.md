@@ -1,4 +1,4 @@
-# leetcode-java-algorithm-solution
+# leetcode-cn-java-algorithm-solution
 
 I tried to find the best way to learn the leetcode algorithm, so I created it.
  
