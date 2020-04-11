@@ -30,13 +30,17 @@ if you don't know how to write the question answer,just check complate module pr
 
 ### 1.2.1 Using Maven
 
-if you are working with Maven,please type these command as below:
+if you are working with Maven,
 
-```
-mvn clean compile
-```
+open pom.xml  with your intellij idea or eclipse.
 
 then just write your code in initial module project.
+
+### 1.2.2 Using Gradle
+
+if you are working with Gradle,
+
+open build.gradle with your intellij idea or eclipse.
 
 ## 1.5 Contributing
 
