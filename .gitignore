@@ -28,6 +28,10 @@ build/
 
 ### Mac OSX ###
 .DS_Store
+
+### Gradle ###
+.gradle
+
 # Compiled class file
 *.class
 
